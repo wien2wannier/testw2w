@@ -1,0 +1,12 @@
+BOTH             # AMN, MMN, or BOTH
+ 21  23          # min band, max band
+  3   3          # LJMAX in exp(ibr) expansion, #proj
+2         # v:dt2g -> 2:dxy
+ 2 2 -2   0.00000000   0.70710678   # iat, l, m, Re(coeff), Im(coeff)
+ 2 2  2   0.00000000  -0.70710678
+2         # v:dt2g -> 2:dxz
+ 2 2 -1   0.70710678   0.00000000
+ 2 2  1  -0.70710678   0.00000000
+2         # v:dt2g -> 2:dyz
+ 2 2 -1   0.00000000   0.70710678
+ 2 2  1   0.00000000   0.70710678

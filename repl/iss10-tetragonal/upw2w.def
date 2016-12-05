@@ -1,0 +1,11 @@
+  5,'W-new.inwf',       'old',    'formatted',  0
+  6,'W-new.outputwf',   'unknown','formatted',  0
+  7,'W-new.amnup',     'unknown','formatted',  0
+  8,'W-new.mmnup',     'unknown','formatted',  0
+ 10,'./W-new.vectorso','old','unformatted',0
+ 11,'W-new.nnkp',	     'old',    'formatted',  0
+ 12,'W-new.eig',	     'unknown','formatted',  0
+ 18,'W-new.vsp',        'old',    'formatted',  0
+ 20,'W-new.struct',   	     'old',    'formatted',  0
+ 50,'W-new.energyso', 'old', 'formatted', 0
+ 51,'W-new.fermi'       'old',    'formatted',  0

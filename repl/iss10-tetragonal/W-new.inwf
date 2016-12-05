@@ -1,0 +1,11 @@
+BOTH             # AMN, MMN, or BOTH
+ 11  13          # min band, max band
+  3   3          # LJMAX in exp(ibr) expansion, #proj
+2         # 1:p -> 1:px
+ 1 1 -1   0.70710678   0.00000000   # iat, l, m, Re(coeff), Im(coeff)
+ 1 1  1  -0.70710678   0.00000000
+2         # 1:p -> 1:py
+ 1 1 -1   0.00000000   0.70710678
+ 1 1  1   0.00000000   0.70710678
+1         # 1:p -> 1:pz
+ 1 1  0   1.00000000   0.00000000
